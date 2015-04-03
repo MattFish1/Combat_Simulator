@@ -1,0 +1,8 @@
+C:\Users\Technologist\Documents\GitHub\MattsWeek1Solutions\Combat Simulator\Combat Simulator\bin\Debug\Combat Simulator.exe.config
+C:\Users\Technologist\Documents\GitHub\MattsWeek1Solutions\Combat Simulator\Combat Simulator\bin\Debug\Combat Simulator.exe
+C:\Users\Technologist\Documents\GitHub\MattsWeek1Solutions\Combat Simulator\Combat Simulator\bin\Debug\Combat Simulator.pdb
+C:\Users\Technologist\Documents\GitHub\MattsWeek1Solutions\Combat Simulator\Combat Simulator\obj\Debug\Combat Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\MattsWeek1Solutions\Combat Simulator\Combat Simulator\obj\Debug\Combat Simulator.exe
+C:\Users\Technologist\Documents\GitHub\MattsWeek1Solutions\Combat Simulator\Combat Simulator\obj\Debug\Combat Simulator.pdb
+C:\Users\Technologist\Documents\GitHub\MattsWeek1Solutions\Combat Simulator\Combat Simulator\bin\Debug\EntityFramework.dll
+C:\Users\Technologist\Documents\GitHub\MattsWeek1Solutions\Combat Simulator\Combat Simulator\bin\Debug\EntityFramework.xml
